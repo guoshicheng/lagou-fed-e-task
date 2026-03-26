@@ -1,8 +1,8 @@
-## lagou-fed-e-task 作业仓库
+# lagou-fed-e-task 作业仓库
 
-#### 大前端高薪训练营: [https://kaiwu.lagou.com](https://kaiwu.lagou.com/fe_enhancement.html)
+## 拉勾教育大前端高薪训练营 ：[https://kaiwu.lagou.com](https://kaiwu.lagou.com/fe_enhancement.html)
 
-#### 作业仓库结构
+### 作业仓库结构
 
 ```text
 fed-e-task-01-01 ······················ 仓库文件夹，序号分别为阶段和模块序号
@@ -21,3 +21,8 @@ fed-e-task-01-01 ······················ 仓库文件夹，
 - Part 2：前端工程化实战
   - 模块一：[开发脚手架及封装自动化构建工作流](/fed-e-task-02-01)
   - 模块二：[模块化开发与规范化标准](/fed-e-task-02-02)
+- Part 3：Vue.js 框架源码与进阶
+  - 模块一：[手写 Vue Router、手写响应式实现、虚拟 DOM 和 Diff 算法（未完成）](/fed-e-task-03-01)
+  - 模块二：[Vue.js 源码分析（响应式、虚拟 DOM、模板编译和组件化）（未完成）](/fed-e-task-03-02)
+  - 模块三：[Vuex 数据流管理及 Vue.js 服务端渲染（SSR）（未完成）](/fed-e-task-03-03)
+  - 模块四：[搭建自己的 SSR、静态站点生成（SSG）及封装 Vue.js 组件库（未完成）](/fed-e-task-03-04)
